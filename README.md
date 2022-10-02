@@ -9,5 +9,7 @@ This is a project where I used React Hooks, TailwindCSS and exposed my knowledge
 I used:
 
 • React Framework;
+
 • TailwindCss;
+
 • HTML;
